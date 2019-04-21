@@ -3,3 +3,8 @@
 ## Courses
 
   - React
+
+### React Requirements
+  - yarn
+  - Babel
+  
