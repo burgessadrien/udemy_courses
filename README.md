@@ -6,5 +6,6 @@
 
 ### React Requirements
   - yarn
+  - live-server
   - Babel
-  
+  - Webpack
